@@ -1,5 +1,7 @@
 syntax enable
 set background=dark
+set cursorline "カーソル行の背景色を変更
+set cursorcolumn "カーソル行一のカラムの背景色変更
 colorscheme hybrid "色変更
 set tabstop=2 "画面上でタブ文字が占める幅
 set shiftwidth=2 "自動インデントでずれる幅
