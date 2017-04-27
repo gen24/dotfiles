@@ -1,4 +1,4 @@
-DOT_FILES=(.vimrc)
+DOT_FILES=(.vimrc, .zshrc)
 
 for file in ${DOT_FILES[@]}
 do
